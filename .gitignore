@@ -1,0 +1,8 @@
+data/mysql/*
+data/redis/*
+!data/mysql/.gitkeep
+!data/redis/.gitkeep
+.env
+*.log
+nginx/logs/access.log
+nginx/logs/error.log
